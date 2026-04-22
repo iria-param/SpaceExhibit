@@ -43,3 +43,9 @@ Already set up and just need to do something?
 - **Swap a video** → [OPERATIONS.md — Changing Videos](./OPERATIONS.md#changing-or-adding-videos)
 - **Something broke** → [TROUBLESHOOTING.md](./TROUBLESHOOTING.md)
 - **Fresh install** → [SETUP_RASPI.md](./SETUP_RASPI.md)
+
+## IP Address
+
+WiFi : Parsec-Guest | Passwd : Parsec@Guest
+Raspi IP 1 : 192.168.30.254
+Rapsi IP 2 : 192.168.30.14
